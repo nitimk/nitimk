@@ -31,7 +31,7 @@ Full-Stack Engineer with over 3+ years of experience creating innovative web app
 
 - 🔭 I’m currently working on Cloud Project. 
 - 🌱 I’m currently learning AWS Lamda. 
-- 📫 How to reach me: Nitimk@gmail.com 
+- 📫 How to reach me: nitimk@gmail.com 
 - 😄 Pronouns: She/Her 
 
 
