@@ -2,7 +2,7 @@
 
 ### Hi there 👋,I'm Niti Patel
 #### Full Stack Software Engineer
-Full-Stack Engineer with over 3+ years of experience creating innovative web applications using JavaScript, Python, React, Node.js, Express, and MongoDB. Proven track record of delivering high-quality, scalable, and reliable systems and demonstrated commitment to continuous learning through internships and volunteer projects. Passionate about creating solutions that drive business success.
+Full-Stack Engineer with over 3+ years of experience in creating innovative web applications using JavaScript, Python, React, Node.js, Express, and MongoDB. Proven track record of delivering high-quality, scalable, and reliable systems and demonstrated commitment to continuous learning through internships and volunteer projects. Passionate about creating solutions that drive business success.
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue "Python")
